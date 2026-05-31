@@ -1,4 +1,4 @@
-# 🛒 Brazilian E-Commerce Analysis — Olist
+# 🛒 Brazilian E-Commerce Analysis - Olist
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-orange?logo=mysql)
@@ -90,7 +90,7 @@ End-to-end аналіз **100,000+ замовлень** бразильської
 
 ## 🤖 ML Модель
 
-**Задача:** Бінарна класифікація — передбачити поганий відгук (≤ 2 зірки)
+**Задача:** Бінарна класифікація - передбачити поганий відгук (≤ 2 зірки)
 
 | Модель | ROC-AUC | 
 |---|---|
@@ -98,10 +98,10 @@ End-to-end аналіз **100,000+ замовлень** бразильської
 | Random Forest | 0.728 |
 
 **Топ фічі (Random Forest):**
-1. `delivery_delay_days` — 0.232
-2. `price` — 0.200
-3. `freight_value` — 0.188
-4. `delivery_days_actual` — 0.163
+1. `delivery_delay_days` - 0.232
+2. `price` - 0.200
+3. `freight_value` - 0.188
+4. `delivery_days_actual` - 0.163
 
 ---
 
