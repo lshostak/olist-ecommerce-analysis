@@ -1,0 +1,18 @@
+# Секретні дані — НЕ завантажувати на GitHub!
+.env
+
+# Великі файли даних — не потрібні на GitHub
+data/raw/*.csv
+powerbi_data/*.csv
+
+# Jupyter тимчасові файли
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Power BI тимчасові файли
+*.pbix.bak
+
+# Системні файли Windows
+Thumbs.db
+desktop.ini
